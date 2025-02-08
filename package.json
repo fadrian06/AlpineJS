@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "alpinejs": "^3.14.8"
+  },
+  "scripts": {
+    "build": "rm dist -rf & cp node_modules/alpinejs/dist dist -r"
+  }
+}

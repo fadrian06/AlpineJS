@@ -1,0 +1,19 @@
+{
+  "name": "faslatam/alpine-js",
+  "description": "AlpineJS composer package",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "fadrian06",
+      "email": "franyeradriansanchez@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "scripts": {
+    "build": [
+      "npm i",
+      "npm run build"
+    ]
+  }
+}
